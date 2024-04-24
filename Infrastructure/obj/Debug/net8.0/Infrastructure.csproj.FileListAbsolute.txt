@@ -1,0 +1,32 @@
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\LENOVO\Desktop\AutoMapper\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
